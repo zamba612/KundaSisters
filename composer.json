@@ -1,0 +1,19 @@
+{
+    "name": "netas/kunda-sisters",
+    "description": "Kunda Sisters projet sur PHP, ecoutez les chansons r\u0000ligieuses congolaises",
+  
+    "license": "ISC",
+    "autoload": {
+        "psr-4": {
+            "Netas\\KundaSisters\\": "vendor/zambaapple/src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mantemo Tusiamina Bob",
+            "email": "zambaapple@gmail.com"
+        }
+    ],
+    "require": {
+    }
+}
