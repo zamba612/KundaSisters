@@ -3,7 +3,7 @@
 namespace Netas\KundaSisters;
 
 use Netas\KundaSisters\Mysql_Driver;
-
+use PDO;
 class DB_C_M {
 
     public $connection;
